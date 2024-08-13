@@ -1,0 +1,20 @@
+.index-title {
+  font-size: 100px;
+}
+.content {
+  width: calc(100% - 296px);
+  margin-left: auto;
+}
+
+.dropdown-toggle::after {
+  border-left: 0;
+  border-right: 0;
+}
+.download {
+  border: 1px solid $gray-400;
+  background-color: $light;
+}
+
+.list-group {
+  width: 320px;
+}
